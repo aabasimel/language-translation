@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+jinja2
+
+python-dotenv
+requests
+gunicorn
+
+alembic
+psycopg2
+azure-ai-inference 
+azure-core
